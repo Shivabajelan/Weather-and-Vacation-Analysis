@@ -20,18 +20,18 @@ We narrow down the city_data DataFrame to find our ideal weather conditions and 
 ## Getting Started
 ###### Clone the repository to your local machine.
 ###### Install the required libraries: pandas, numpy, matplotlib, seaborn, requests, citipy, and geopandas.
-Obtain API keys for OpenWeatherMap and Geoapify.
-Create an api_keys.py file in the project directory and add your API keys as variables.
-Open the WeatherPy.ipynb and VacationPy.ipynb Jupyter notebooks to explore the analyses and visualizations.
-Technologies Used
-Python
-Jupyter Notebooks
-Pandas
-Numpy
-Matplotlib
-Seaborn
-Requests
-Citipy
-Geopandas
-OpenWeatherMap API
-Geoapify API
+###### Obtain API keys for OpenWeatherMap and Geoapify.
+###### Create an api_keys.py file in the project directory and add your API keys as variables.
+###### Open the WeatherPy.ipynb and VacationPy.ipynb Jupyter notebooks to explore the analyses and visualizations.
+###### Technologies Used
+###### Python
+###### Jupyter Notebooks
+###### Pandas
+###### Numpy
+###### Matplotlib
+###### Seaborn
+###### Requests
+###### Citipy
+###### Geopandas
+###### OpenWeatherMap API
+###### Geoapify API
