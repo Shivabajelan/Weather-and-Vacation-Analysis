@@ -1,4 +1,4 @@
-## Weather-and-Vacation-Analysis
+### Weather-and-Vacation-Analysis
 This project aims to analyse weather data of various cities to understand the relationship between weather variables and the latitude of the cities. We also utilise the analysed data to plan future vacations by selecting ideal weather conditions for our trip and finding hotels in the cities that meet our criteria.
 
 # Part 1: WeatherPy
