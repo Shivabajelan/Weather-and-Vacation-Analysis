@@ -6,7 +6,7 @@ In this part, we create a Python script to visualize the weather of over 500 cit
 
 We generate scatter plots to showcase the following relationships:
 
-Latitude vs. Temperature
+#### Latitude vs. Temperature
 Latitude vs. Humidity
 Latitude vs. Cloudiness
 Latitude vs. Wind Speed
