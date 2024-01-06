@@ -7,9 +7,9 @@ In this part, we create a Python script to visualize the weather of over 500 cit
 We generate scatter plots to showcase the following relationships:
 
 #### Latitude vs. Temperature
-Latitude vs. Humidity
-Latitude vs. Cloudiness
-Latitude vs. Wind Speed
+#### Latitude vs. Humidity
+#### Latitude vs. Cloudiness
+#### Latitude vs. Wind Speed
 We also compute linear regression for each relationship, separating the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude).
 
 ## Part 2: VacationPy
