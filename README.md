@@ -1,7 +1,7 @@
-# Weather-and-Vacation-Analysis
+## Weather-and-Vacation-Analysis
 This project aims to analyse weather data of various cities to understand the relationship between weather variables and the latitude of the cities. We also utilise the analysed data to plan future vacations by selecting ideal weather conditions for our trip and finding hotels in the cities that meet our criteria.
 
-Part 1: WeatherPy
+# Part 1: WeatherPy
 In this part, we create a Python script to visualize the weather of over 500 cities of varying distances from the equator using the citipy Python library, the OpenWeatherMap API, and our problem-solving skills.
 
 We generate scatter plots to showcase the following relationships:
@@ -12,12 +12,12 @@ Latitude vs. Cloudiness
 Latitude vs. Wind Speed
 We also compute linear regression for each relationship, separating the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude).
 
-Part 2: VacationPy
+# Part 2: VacationPy
 In this part, we use our weather data to plan future vacations. We use Jupyter notebooks, the geopandas Python library, and the Geoapify API to create map visualizations of our ideal vacation spots.
 
 We narrow down the city_data DataFrame to find our ideal weather conditions and use the Geoapify API to find the first hotel located within 10,000 meters of our coordinates.
 
-Getting Started
+# Getting Started
 Clone the repository to your local machine.
 Install the required libraries: pandas, numpy, matplotlib, seaborn, requests, citipy, and geopandas.
 Obtain API keys for OpenWeatherMap and Geoapify.
